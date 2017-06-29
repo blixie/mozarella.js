@@ -1,0 +1,2 @@
+# mozarella.js
+nothing
